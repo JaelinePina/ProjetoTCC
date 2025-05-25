@@ -18,7 +18,7 @@ Foram utilizados diagramas UML, com foco em Diagramas de Caso de Uso, para model
 
 ## Estrutura do Repositório
 
-- `Documento_Especificacao.pdf` — Documento formal de especificação de requisitos do sistema.  
+- `TCC 2_JAELINE PINA DA SILVA FINALIZADO.pdf` — Documento formal de especificação de requisitos do sistema.  
 
 ## Resultados e Contribuições
 
